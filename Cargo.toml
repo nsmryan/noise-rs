@@ -14,7 +14,7 @@ edition = "2018"
 name = "noise"
 
 [dependencies]
-rand = "0.5"
+rand = "0.6.5"
 image = { version = "0.18", optional = true }
 
 [features]
